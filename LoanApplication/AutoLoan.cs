@@ -12,8 +12,8 @@ namespace LoanApplication
     {
         //declare variables
         int year;
-           string  make;
-          string  model;
+        string  make;
+        string  model;
           
         
       
@@ -30,7 +30,7 @@ namespace LoanApplication
             {
                 year = value;
             }
-        }
+         }
 
         public string Make
         {
@@ -90,7 +90,7 @@ namespace LoanApplication
         }
     }
 
-}
+ }
 
 
 
