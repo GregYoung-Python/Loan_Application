@@ -10,7 +10,7 @@ namespace LoanApplication
     {
        //declare variables
            string firstName;
-           string    lastName;
+           string lastName;
           
            double loanAmount;
 
