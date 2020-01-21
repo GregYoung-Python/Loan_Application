@@ -5,15 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace LoanApplication
-{
-         //Home is derived from the Loan class
+        {
+             //Home is derived from the Loan class
 
 
-        class HomeLoan: Loan
-    {
-       //declare variables
-           int squareFeet;
-            int numberOfRooms;
+              class HomeLoan: Loan
+        {
+              //declare variables
+              int squareFeet;
+              int numberOfRooms;
          
          
          
